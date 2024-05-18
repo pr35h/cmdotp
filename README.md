@@ -1,5 +1,5 @@
 # cmdotp
-*it's totp, 90s style.*
+*it's totp, skid style.*
 
 # how to use
 1. run the EXE
